@@ -1,1 +1,1 @@
-# github-api-utils
+Basic utils for working with GitHub API via Javacript 
